@@ -1,7 +1,7 @@
 
 [![MasterHead](https://www.spinutech.com/webres/Image/web-design-development/articles/Web%20Dev-Blog.png)
 <h1 align="center">Hi 👋, I'm Dipanshu joshi</h1>
-<h3 align="center">I am a CS second year student at Shri Ram Institute Management and Tehnology,Kumaun University,Uttarakhand Technical University</h3>
+<h3 align="center">I am a CSA third year student at Shri Ram Institute Management and Tehnology,Kumaun University,Uttarakhand Technical University</h3>
 <img align="right" alt="Coding" width="400" src=https://images.hdqwalls.com/wallpapers/devil-boy-minimal-mask-4k-fz.jpg>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lacthon&label=Profile%20views&color=0e75b6&style=flat" alt="lacthon" /> </p>
 
